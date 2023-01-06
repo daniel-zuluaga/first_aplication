@@ -1,6 +1,8 @@
 # first_aplication
 
-A new Flutter project.
+This was my first application that I made with flutter, when I just started to know flutter
+
+<img width="331" alt="Screenshot 2023-01-06 at 3 18 36 PM" src="https://user-images.githubusercontent.com/70453255/211092850-b717d487-1167-493b-bfd4-6586eaa6d58c.png">
 
 ## Getting Started
 
